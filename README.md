@@ -67,8 +67,10 @@ https://learn.microsoft.com/en-us/aspnet/core/fundamentals/middleware/write?view
 
 ## DOM
 
-文件物件模型（Document Object Model, DOM）是HTML、XML 和SVG 文件的程式介面。它提供了一個文件（樹）的結構化表示法，並定義讓程式javascript可以存取並改變
-
+文件物件模型（Document Object Model, DOM）是HTML、XML 和SVG 文件的程式介面。它提供了一個文件（樹）的結構化表示法，並定義讓程式javascript可以存取並改變物件特性
+\
+https://www.webdong.dev/post/dom-from-the-begineeing/
+\
 https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById
 
 ## jQuery
